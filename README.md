@@ -1,23 +1,19 @@
 <center>
 
 # Kr1ss
-
 <br>
 
 <img src=Animated_glider_emblem.gif>
-
-##### FOSS Enthusiast. Security & Anonymity Proponent.
-
 </center>
 
-<br>
+##### FOSS Enthusiast. Security & Anonymity Proponent.
 
 #### :nerd_face:  Geek by nature
 #### :penguin:  Linux by choice
 
 ---
 
-#### 📫 tr , . <<< kr1ss,x@yandex,com
+### 📫  ` tr , . <<< kr1ss,x@yandex,com `
 
 ##### Please encrypt and sign your emails, if you are a PGP user
 
