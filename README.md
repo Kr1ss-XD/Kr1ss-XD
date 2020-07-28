@@ -1,10 +1,13 @@
 ## Kr1ss
-### Security Proponent - FOSS Enthusiast
 
-#### :nerd_face:  Geek by nature
-#### :penguin:  Linux by choice
+#### Security & Anonymity Proponent - FOSS Enthusiast
+
+##### :nerd_face:  Geek by nature
+##### :penguin:  Linux by choice
+
 
 ---
+
 
 ### 📫 kr1ss(dot)x(at)yandex(dot)com
 
