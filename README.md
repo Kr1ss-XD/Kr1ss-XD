@@ -1,22 +1,32 @@
-## Kr1ss
+<center>
 
-#### Security & Anonymity Proponent - FOSS Enthusiast
+# Kr1ss
 
-##### :nerd_face:  Geek by nature
-##### :penguin:  Linux by choice
+<br>
 
+<img src=Animated_glider_emblem.gif>
+
+##### FOSS Enthusiast. Security & Anonymity Proponent.
+
+</center>
+
+<br>
+
+#### :nerd_face:  Geek by nature
+#### :penguin:  Linux by choice
 
 ---
 
+#### 📫 tr , . <<< kr1ss,x@yandex,com
 
-### 📫 kr1ss(dot)x(at)yandex(dot)com
+##### Please encrypt and sign your emails, if you are a PGP user
 
-#### Please encrypt and sign your emails, if you are a PGP user
-
-* My public key ID (rsa4096): [62ACFE50](https://keys.openpgp.org/vks/v1/by-fingerprint/7A194E3F7A8F867BEA8A5339023F078862ACFE50)
-* Fingerprint: 7A19 4E3F 7A8F 867B EA8A  5339 023F 0788 62AC FE50
+- My public key ID (rsa4096): [62ACFE50](https://keys.openpgp.org/vks/v1/by-fingerprint/7A194E3F7A8F867BEA8A5339023F078862ACFE50)
+- Fingerprint: 7A19 4E3F 7A8F 867B EA8A  5339 023F 0788 62AC FE50
 
 ---
+
+<br>
 
 > "Arguing that you don't care about the right to privacy because you have nothing to hide is no different from saying you don't care about free  speech because you have nothing to say."
 
