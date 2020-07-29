@@ -3,7 +3,7 @@
 # Kr1ss
 <br>
 
-<img src=Animated_glider_emblem.gif>
+<img src=gfx/animated_glider_emblem.gif>
 </center>
 
 ##### FOSS Enthusiast. Online Security & Privacy Proponent.
