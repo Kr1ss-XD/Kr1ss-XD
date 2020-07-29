@@ -6,7 +6,7 @@
 <img src=Animated_glider_emblem.gif>
 </center>
 
-##### FOSS Enthusiast. Security & Anonymity Proponent.
+##### FOSS Enthusiast. Online Security & Privacy Proponent.
 
 #### :nerd_face:  Geek by nature
 #### :penguin:  Linux by choice
