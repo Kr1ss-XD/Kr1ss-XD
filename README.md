@@ -8,9 +8,9 @@
 
 <center>
 
-<img src=gfx/animated_glider_emblem.gif>
-
 <br>
+
+<img src=gfx/animated_glider_emblem.gif>
 
 </center>
 
