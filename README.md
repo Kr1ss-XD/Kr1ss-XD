@@ -15,7 +15,7 @@
 
 ---
 
-#### 📫  ` tr , . <<< kr1ss,x@yandex,com `
+#### 📫  ` tr , . <<<kr1ss,x@yandex,com `
 
 ##### Please encrypt and sign your emails, if you are a PGP user
 
