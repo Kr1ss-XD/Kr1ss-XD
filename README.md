@@ -2,11 +2,7 @@
   
 # Kr1ss
 
-</center>
-
 ##### FOSS Enthusiast. Privacy Proponent & Security Researcher.
-
-<center>
 
 <br>
 
