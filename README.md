@@ -1,21 +1,24 @@
-<center>
-  
-# Kr1ss
 
-##### FOSS Enthusiast. Privacy Proponent & Security Researcher.
+
+# <p align="center">Kr1ss</p>
+
+##### <p align="center">FOSS Enthusiast</p>
+###### <p align="center">Privacy Proponent & Security Researcher</p>
 
 <br>
 
+<p align="center">
 <img src=https://github.com/Kr1ss-XD/Kr1ss-XD/raw/master/gfx/animated_glider_emblem.gif>
+</p>
 
-</center>
+---
+####
 
 * ### :nerd_face: Geek by nature
 * ### :penguin: Linux by choice
 
 ---
-
-#### 📫  send email to `$(base64 -d <<<a3Ixc3MueEB5YW5kZXguY29tCg==)`
+#### 📫  | email me at `$(base64 -d <<<a3Ixc3MueEB5YW5kZXguY29tCg==)`
 
 ##### Please encrypt and sign your emails, if you are a PGP user
 
