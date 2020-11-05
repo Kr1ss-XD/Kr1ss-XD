@@ -15,7 +15,7 @@
 
 ---
 
-#### 📫  ` tr , . <<<kr1ss,x@yandex,com `
+#### 📫  send email to `$(base64 -d <<<a3Ixc3MueEB5YW5kZXguY29tCg==)`
 
 ##### Please encrypt and sign your emails, if you are a PGP user
 
