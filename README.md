@@ -18,7 +18,11 @@
 * #### :penguin: Linux - by choice
 
 ---
-#### (📫) You can email me at `$(base64 -d <<<a3Ixc3MueEB5YW5kZXguY29tCg==)`
+#### (💻) Meet me at [TryHackMe](https://tryhackme.com/p/Kr1ss)
+![TryHackMe](https://github.com/Kr1ss-XD/Kr1ss-XD/raw/master/gfx/THM.png)
+
+#### (📫) You can email me at :
+* `$(base64 -d <<<a3Ixc3MueEB5YW5kZXguY29tCg==)`
 
 ##### (🔏) If you are a PGP user, please encrypt and sign your emails :
 
