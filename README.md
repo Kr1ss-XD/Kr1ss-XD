@@ -22,7 +22,7 @@
 ![TryHackMe](https://github.com/Kr1ss-XD/Kr1ss-XD/raw/master/gfx/THM.png)
 
 #### (📫) You can email me at :
-* `$(base64 -d <<<a3Ixc3MueEB5YW5kZXguY29tCg==)`
+* `$(base64 -d <<<a3Ixc3MueEB5YW5kZXguY29t)`
 
 ##### (🔏) If you are a PGP user, please encrypt and sign your emails :
 
