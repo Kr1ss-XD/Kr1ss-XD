@@ -8,7 +8,7 @@
 <br>
 
 <p align="center">
-<img src=https://github.com/Kr1ss-XD/Kr1ss-XD/raw/master/gfx/animated_glider_emblem.gif>
+<img src=https://github.com/Kr1ss-XD/Kr1ss-XD/raw/master/gfx/animated_glider_emblem.png>
 </p>
 
 ---
