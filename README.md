@@ -1,5 +1,4 @@
 
-
 # <p align="center">Kr1ss</p>
 
 #### <p align="center">Free Software Enthusiast</p>
@@ -19,7 +18,9 @@
 
 ---
 #### (💻) Meet me at [TryHackMe](https://tryhackme.com/p/Kr1ss)
-![TryHackMe](https://github.com/Kr1ss-XD/Kr1ss-XD/raw/master/gfx/THM.png)
+* [referral link](https://tryhackme.com/signup?referrer=9a8e6102433713daebad665abcd83dbde40570d4) - if you sign up, both of us can get some free tokens
+
+[![TryHackMe](https://github.com/Kr1ss-XD/Kr1ss-XD/raw/master/gfx/THM.png)](https://tryhackme.com/signup?referrer=9a8e6102433713daebad665abcd83dbde40570d4)
 
 #### (📫) You can email me at :
 * `$(base64 -d <<<a3Ixc3MueEB5YW5kZXguY29t)`
