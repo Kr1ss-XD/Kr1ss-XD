@@ -40,3 +40,8 @@
 
   (E. J. Snowden, [2015](https://www.reddit.com/r/IAmA/comments/36ru89/just_days_left_to_kill_mass_surveillance_under/crglgh2/))
 
+---
+
+## [Metrics](https://metrics.lecoq.io/)
+
+![Metrics](https://metrics.lecoq.io/Kr1ss-XD?template=classic&repositories.forks=true&isocalendar=1&languages=1&followup=1&notable=1&discussions=1&people=1&stars=1&achievements=1&introduction=1&lines=1&isocalendar.duration=full-year&languages.limit=8&languages.threshold=0%25&languages.colors=github&languages.sections=most-used&languages.indepth=true&languages.analysis.timeout=15&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&stars.limit=4&followup.sections=repositories&followup.indepth=true&people.limit=24&people.identicons=true&people.size=28&people.types=followers%2C%20following&people.shuffle=false&achievements.threshold=C&achievements.secrets=true&achievements.display=detailed&achievements.limit=0&notable.from=all&notable.repositories=true&notable.indepth=true&notable.types=commit&discussions.categories=true&discussions.categories.limit=0&introduction.title=true&config.timezone=Europe%2FBusingen&config.twemoji=true&config.octicon=true)
